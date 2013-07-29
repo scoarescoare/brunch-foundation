@@ -15,10 +15,10 @@
     "start": "brunch watch --server"
   },
   "dependencies": {
-    "javascript-brunch": "> 1.5 < 1.6",
+    "javascript-brunch": "> 1.0 < 1.6",
 
-    "css-brunch": "> 1.5 < 1.6",
-    "sass-brunch": "> 1.5 < 1.6",
+    "css-brunch": "> 1.0 < 1.6",
+    "sass-brunch": "> 1.0 < 1.6",
 
     "handlebars-brunch": "> 1.5 < 1.6",
 
